@@ -1,6 +1,6 @@
 # Editor Config
 
-一个非常通用的[.editorconfig]（https://github.com/RehanSaeed/EditorConfig/blob/master/.editorconfig）文件，支持以下文件类型：
+一个非常通用的[.editorconfig] 文件，支持以下文件类型：
 
 -  C＃ -  .cs，.csx，。蛋糕
 -  Visual Basic  -  .vb
